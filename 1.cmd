@@ -1,0 +1,1 @@
+start more /proc/cpuinfo
